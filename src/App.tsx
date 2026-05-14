@@ -305,7 +305,7 @@ export default function App() {
               >
                 <div className="aspect-[3/4] rounded-2xl overflow-hidden border-2 border-white/10 relative group">
                   <img
-                    src="/lata.png"
+                    src="./lata.png"
                     alt="Lata Mayur Bhanushali (B.COM, U.S. Accounting Certified)"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />
